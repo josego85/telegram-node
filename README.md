@@ -21,7 +21,7 @@ Levantar el servidor:
 
     npm start
 
-## Bot Proyectos Beta proyectos_beta_bot
+## Bot Proyectos Beta (proyectos_beta_bot)
 
 
 ## Comandos
