@@ -9,13 +9,13 @@ Crear archivo config.js con lo siquiente:
 
 ```js
     module.exports = {
-        'TOKEN' : 'PUTYOURTOKENHERE'
+        'TOKEN' : 'XXXXXXXXXXXXXXXXXXX'
     }
 ```
 
 Instalar dependencias:
 
-    npm i
+    npm install
 
 Levantar el servidor:
 
