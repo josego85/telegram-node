@@ -1,17 +1,11 @@
 # telegram-node
 
-Basic starter template to create a Telegram Bot using Node.js
+Este bot muestra una imagen aleatoria y deben de estar en la carpeta imagenes.
 
-## Contribution?
+## Como usar
+Necesitas crear el bot con @botfather, para obtener un TOKEN.
 
-Of course you are welcome! You are free to fork and pull request the repository.
-But remember this is not a complex project, it's a starter template.
-
-## How to use 
-
-You need to create a bot with @botfather, then you'll got a TOKEN.
-
-Create a file called config.js with this:
+Crear archivo config.js con lo siquiente:
 
 ```js
     module.exports = {
@@ -19,21 +13,16 @@ Create a file called config.js with this:
     }
 ```
 
-Install dependencies:
+Instalar dependencias:
 
     npm i
 
-Run your bot:
+Levantar el servidor:
 
     npm start
 
-## File description
+## Bot Proyectos Beta proyectos_beta_bot
 
-**/test/foo.js**
 
-The test file, only for developers.
-
-**/bot.js**
-
-The main script, you must to run it to turn on the bot, its like app.js or server.js in a 
-NodeJS web project.
+## Comandos
+Para poder ver una imagen se escribe en telegram /imagen
